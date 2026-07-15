@@ -66,7 +66,7 @@ def play_game():
             total_time = round(end_time - start_time, 2)
 
             print(f"\nCongratulations! You guessed the correct number in {attempts} attempts.")
-            print(f"⏱Time taken: {total_time} seconds")
+            print(f"Time taken: {total_time} seconds")
 
             # Update high score
             if high_scores[difficulty] is None or attempts < high_scores[difficulty]:
@@ -86,7 +86,7 @@ def play_game():
         remaining = chances - attempts
         print(f"Attempts left: {remaining}")
 
-    print(f"\n💀 Game Over! The correct number was {number}.")
+    print(f"\n Game Over! The correct number was {number}.")
 
 def show_high_scores():
     print("\n High Scores:")

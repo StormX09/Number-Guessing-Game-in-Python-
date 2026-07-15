@@ -1,3 +1,1 @@
-## Project URL
-
-https://github.com/StormX09/Number-Guessing-Game-in-Python-.git
+https://github.com/StormX09/Number-Guessing-Game-in-Python-

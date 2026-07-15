@@ -85,3 +85,9 @@ Congratulations! You guessed the correct number in 3 attempts.
 This project is open-source and free to use.
 
 ---
+
+## Project URL
+
+https://github.com/StormX09/Number-Guessing-Game-in-Python-.git
+
+---

@@ -75,7 +75,7 @@ Enter your guess: 25
 Incorrect! The number is greater than 25.
 
 Enter your guess: 30
-🎉 Congratulations! You guessed the correct number in 3 attempts.
+Congratulations! You guessed the correct number in 3 attempts.
 ```
 
 ---
